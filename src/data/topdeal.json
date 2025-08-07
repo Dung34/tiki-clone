@@ -1,0 +1,104 @@
+[
+    {
+        "id": "td01",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td01.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "Rèn luyện tư duy phản biện",
+        "name": "ren-luyen-tu-duy-phan-bien",
+        "rating": 5,
+        "oldCost": "139.000",
+        "newCost": "88.100 đ",
+        "sale": "37%",
+        "typeOfDelivery": 0
+    },
+    {
+        "id": "td02",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td02.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "AI Trong Lĩnh Vực Kinh Tế Và Tài Chính",
+        "name": "ai-trong-linh-vuc-kinh-te-va-tai-chinh",
+        "rating": 4,
+        "oldCost": "495.000",
+        "newCost": "343.000",
+        "sale": "31%",
+        "typeOfDelivery": 0
+    },
+    {
+        "id": "td03",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td03.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "Tuyến Điểm Du lịch Việt Nam",
+        "name": "tuyen-diem-du-lich-Viet-Nam",
+        "rating": 5,
+        "oldCost": "145.000",
+        "newCost": "121.100",
+        "sale": "2%",
+        "typeOfDelivery": 4
+    },
+    {
+        "id": "td04",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td04.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "Bài tập củng cố ngữ pháp HSK cấu trúc và giao tiếp",
+        "name": "bai-tap-cung-co-ngu-phap-hsk-cau-truc-va-giao-tiep",
+        "rating": 5,
+        "oldCost": "219.000",
+        "newCost": "206.610",
+        "sale": "6%",
+        "typeOfDelivery": 4
+    },
+    {
+        "id": "td05",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td05.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "Châu Nhuận Phát - Đại Hiệp Hồng Kông",
+        "name": "chau-nhuan-phat-dai-hiep-hong-kong",
+        "rating": 5,
+        "oldCost": "168.000",
+        "newCost": "126.000",
+        "sale": "25%",
+        "typeOfDelivery": 0
+    },
+    {
+        "id": "td06",
+        "date": "8.8",
+        "image": "src/assets/topdeal/td06.jpg",
+        "typeOfDeal": [
+            "top-deal",
+            "freeship-extra",
+            "chinh-hang"
+        ],
+        "title": "Khéo Ăn Khéo Nói Sẽ Có Được Thiên Hạ",
+        "name": "kheo-an-kheo-noi-se-co-duoc-thien-ha",
+        "rating": 5,
+        "oldCost": "130.000",
+        "newCost": "85.000",
+        "sale": "35%",
+        "typeOfDelivery": 0
+    }
+]

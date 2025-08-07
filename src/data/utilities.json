@@ -1,0 +1,17 @@
+[
+    {
+        "label": "Ưu đãi thẻ, ví",
+        "image": "src/assets/utilities/uudaithevi.png",
+        "name": "uu-dai-the-vi"
+    },
+    {
+        "label": "Đóng tiền, nạp thẻ",
+        "image": "src/assets/utilities/dongtiennapthe.png",
+        "name": "dong-tien-nap-the"
+    },
+    {
+        "label": "Mua trước, trả sau",
+        "image": "src/assets/utilities/muatruoctrasau.png",
+        "name": "mua-truoc-tra-sau"
+    }
+]

@@ -70,27 +70,27 @@ const Header = () => {
                     </div>
 
                 </div>
-                <div class="w-px h-4 bg-gray-300"></div>
+                <div className="w-px h-4 bg-gray-300"></div>
                 <div className='flex flex-row items-center gap-2'>
                     <img src={`src/assets/images/freeshipmoidon.png`} alt="freeshipmoidon" className='size-5' />
                     <p className='text-[12px] font-sans text-[#27272a]'>Freeship mọi đơn</p>
                 </div>
-                <div class="w-px h-4 bg-gray-300"></div>
+                <div className="w-px h-4 bg-gray-300"></div>
                 <div className='flex flex-row items-center gap-2'>
                     <img src={`src/assets/images/hoan200neuhanggia.png`} alt="hoan200neuhanggia" className='size-5' />
                     <p className='text-[12px] font-sans text-[#27272a]'>Hoàn 200% nếu hàng giả</p>
                 </div>
-                <div class="w-px h-4 bg-gray-300"></div>
+                <div className="w-px h-4 bg-gray-300"></div>
                 <div className='flex flex-row items-center gap-2'>
                     <img src={`src/assets/images/30ngaytrahang.png`} alt="30ngaytrahang" className='size-5' />
                     <p className='text-[12px] font-sans text-[#27272a]'>30 ngày trả hàng</p>
                 </div>
-                <div class="w-px h-4 bg-gray-300"></div>
+                <div className="w-px h-4 bg-gray-300"></div>
                 <div className='flex flex-row items-center gap-2'>
                     <img src={`src/assets/images/giaonhanh2h.png`} alt="giaonhanh2h" className='size-5' />
                     <p className='text-[12px] font-sans text-[#27272a]'>Giao nhanh 2h</p>
                 </div>
-                <div class="w-px h-4 bg-gray-300"></div>
+                <div className="w-px h-4 bg-gray-300"></div>
                 <div className='flex flex-row items-center gap-2'>
                     <img src={`src/assets/images/giasieure.png`} alt="giasieure" className='size-5' />
                     <p className='text-[12px] font-sans text-[#27272a]'>Giá siêu rẻ</p>

@@ -1,0 +1,32 @@
+[
+    {
+        "label": "8/8 freeship mọi đơn",
+        "image": "src/assets/banner/88freeshipmoidon.png",
+        "name": "8-8-freeship-moi-don"
+    },
+    {
+        "label": "Đón deal tựu trường",
+        "image": "src/assets/banner/dondealtuutruong.png",
+        "name": "don-deal-tuu-truong"
+    },
+    {
+        "label": "Đón hè nhộn nhịp",
+        "image": "src/assets/banner/donhenhonhip.png",
+        "name": "don-he-nhon-nhip"
+    },
+    {
+        "label": "Quà yêu trao mẹ",
+        "image": "src/assets/banner/quayeutraome.png",
+        "name": "qua-yeu-trao-me"
+    },
+    {
+        "label": "Siêu hội làm đẹp",
+        "image": "src/assets/banner/sieuhoilamdep.png",
+        "name": "sieu-hoi-lam-dep"
+    },
+    {
+        "label": "Sữa Meadow",
+        "image": "src/assets/banner/suaMeadow.png",
+        "name": "sua-meadow"
+    }
+]

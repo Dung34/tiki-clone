@@ -1,0 +1,52 @@
+[
+    {
+        "label": "Siêu sale 8.8",
+        "image": "src/assets/features/sieusale88.png",
+        "name": "sieu-sale-8-8"
+    },
+    {
+        "label": "Deal riêng 50% TikiVIP",
+        "image": "src/assets/features/tikivip.png",
+        "name": "deal-rieng-50-tiki-vip"
+    },
+    {
+        "label": "Tiki Sáng nay rẻ",
+        "image": "src/assets/features/tikisangnayre.png",
+        "name": "tiki-sang-nay-re"
+    },
+    {
+        "label": "Combo siêu tiết kiệm",
+        "image": "src/assets/features/combosieure.png",
+        "name": "combo-sieu-tiet-kiem"
+    },
+    {
+        "label": "Tiki Trading",
+        "image": "src/assets/features/tikitrading.png",
+        "name": "tiki-trading"
+    },
+    {
+        "label": "Coupon siêu hot",
+        "image": "src/assets/features/coupon.png",
+        "name": "coupon-sieu-hot"
+    },
+    {
+        "label": "Back to School",
+        "image": "src/assets/features/backtoschool.png",
+        "name": "back-to-school"
+    },
+    {
+        "label": "Xả kho giảm nửa giá",
+        "image": "src/assets/features/xakhogiamgia.png",
+        "name": "xa-kho-giam-nua-gia"
+    },
+    {
+        "label": "Top Sách bán chạy",
+        "image": "src/assets/features/topsachbanchay.png",
+        "name": "top-sach-ban-chay"
+    },
+    {
+        "label": "Điện máy giảm 50%",
+        "image": "src/assets/features/dienmaygiamgia.png",
+        "name": "dien-may-giam-50"
+    }
+]
