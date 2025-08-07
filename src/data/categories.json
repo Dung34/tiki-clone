@@ -1,6 +1,127 @@
 [
     {
         "label": "Nhà sách Tiki",
-        "image": ""
+        "image": "src/assets/categories/nhasachtiki.png",
+        "name": "nha-sach-tiki"
+    },
+    {
+        "label": "Nhà cửa - Đời sống",
+        "image": "src/assets/categories/nhacuadoisong.png",
+        "name": "nha-cua-doi-song"
+    },
+    {
+        "label": "Điện thoại - Máy tính bảng",
+        "image": "src/assets/categories/dienthoai.png",
+        "name": "dien-thoai-may-tinh-bang"
+    },
+    {
+        "label": "Đồ chơi - Mẹ & Bé",
+        "image": "src/assets/categories/mevabe.png",
+        "name": "do-choi-me-be"
+    },
+    {
+        "label": "Thiết bị số - Phụ kiện số",
+        "image": "src/assets/categories/thietbiso.png",
+        "name": "thiet-bi-so-phu-kien-so"
+    },
+    {
+        "label": "Điện gia dụng",
+        "image": "src/assets/categories/diengiadung.png",
+        "name": "dien-gia-dung"
+    },
+    {
+        "label": "Làm đẹp - Sức khỏe",
+        "image": "src/assets/categories/lamdep.png",
+        "name": "lam-dep-suc-khoe"
+    },
+    {
+        "label": "Ô tô - Xe máy - Xe đạp",
+        "image": "src/assets/categories/xemay.png",
+        "name": "oto-xe-may-xe-dap"
+    },
+    {
+        "label": "Thời trang nữ",
+        "image": "src/assets/categories/thoitrangnu.png",
+        "name": "thoi-trang-nu"
+    },
+    {
+        "label": "Thời trang nam",
+        "image": "src/assets/categories/thoitrangnam.png",
+        "name": "thoi-trang-nam"
+    },
+    {
+        "label": "Bách hóa Online",
+        "image": "src/assets/categories/bachhoaonline.png",
+        "name": "bach-hoa-online"
+    },
+    {
+        "label": "Thể thao - Dã ngoại",
+        "image": "src/assets/categories/thethaodangoai.png",
+        "name": "the-thao-da-ngoai"
+    },
+    {
+        "label": "Cross Border - Hàng Quốc tế",
+        "image": "src/assets/categories/hangquocte.png",
+        "name": "cross-border-hang-quoc-te"
+    },
+    {
+        "label": "Laptop - Máy vi tính - Linh kiện",
+        "image": "src/assets/categories/laptop.png",
+        "name": "laptop-may-vi-tinh-linh-kien"
+    },
+    {
+        "label": "Giày - Dép nam",
+        "image": "src/assets/categories/giaydepnu.png",
+        "name": "giay-dep-nam"
+    },
+    {
+        "label": "Điện tử - Điện lạnh",
+        "image": "src/assets/categories/dientudienlanh.png",
+        "name": "dien-tu-dien-lanh"
+    },
+    {
+        "label": "Giày - Dép nữ",
+        "image": "src/assets/categories/giaydepnu.png",
+        "name": "giay-dep-nu"
+    },
+    {
+        "label": "Máy ảnh - Máy quay phim",
+        "image": "src/assets/categories/mayanh.png",
+        "name": "may-anh-may-quay-phim"
+    },
+    {
+        "label": "Phụ kiện thời trang",
+        "image": "src/assets/categories/phukienthoitrang.png",
+        "name": "phu-kien-thoi-trang"
+    },
+    {
+        "label": "NGON",
+        "image": "src/assets/categories/ngon.png",
+        "name": "ngon"
+    },
+    {
+        "label": "Đồng hồ - Trang sức",
+        "image": "src/assets/categories/dongho.png",
+        "name": "dong-ho-trang-suc"
+    },
+    {
+        "label": "Balo - Vali",
+        "image": "src/assets/categories/balo.png",
+        "name": "balo-vali"
+    },
+    {
+        "label": "Voucher - Dịch vụ",
+        "image": "src/assets/categories/vouncher.png",
+        "name": "voucher-dich-vu"
+    },
+    {
+        "label": "Túi thời trang nữ",
+        "image": "src/assets/categories/tuithoitrangnu.png",
+        "name": "tui-thoi-trang-nu"
+    },
+    {
+        "label": "Túi thời trang nam",
+        "image": "src/assets/categories/tuithoitrangnam.png",
+        "name": "tui-thoi-trang-nam"
     }
 ]

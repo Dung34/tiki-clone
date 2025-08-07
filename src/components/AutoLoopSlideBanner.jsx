@@ -12,7 +12,7 @@ const banners = [
 
 export default function AutoLoopSlideBanner() {
   return (
-    <div className='p-5 rounded-lg bg-white'>
+    <div className='p-5 rounded-lg bg-white h-fit'>
       <Swiper
         slidesPerView={2}          // hiển thị 2 ảnh/lần
         spaceBetween={16}          // khoảng cách giữa ảnh
